@@ -1,3 +1,3 @@
 # git_test
 
-Hello Odin!
+Linux & Git
