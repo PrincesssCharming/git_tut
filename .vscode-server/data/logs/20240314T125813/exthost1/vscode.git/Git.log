@@ -28,3 +28,36 @@
 2024-03-14 13:16:39.039 [info] > git status -z -uall [35ms]
 2024-03-14 13:16:40.145 [info] > git ls-files --stage -- /home/chantal/ce3.tf [3ms]
 2024-03-14 13:16:40.219 [info] > git show --textconv :ce3.tf [2ms]
+2024-03-14 13:16:52.811 [info] > git add -A -- . [15744ms]
+2024-03-14 13:16:52.811 [info] warning: adding embedded git repository: azubiLinux
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint: 
+hint: 	git submodule add <url> azubiLinux
+hint: 
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint: 
+hint: 	git rm --cached azubiLinux
+hint: 
+hint: See "git help submodule" for more information.
+warning: adding embedded git repository: fruit
+2024-03-14 13:16:52.957 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [137ms]
+2024-03-14 13:16:52.968 [info] > git config --get commit.template [1ms]
+2024-03-14 13:16:52.994 [info] > git config --get commit.template [11ms]
+2024-03-14 13:16:52.996 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-03-14 13:16:53.068 [info] > git status -z -uall [60ms]
+2024-03-14 13:16:53.130 [info] > git config --get commit.template [15ms]
+2024-03-14 13:16:53.132 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-03-14 13:16:53.209 [info] > git status -z -uall [63ms] (cancelled)
+2024-03-14 13:16:53.210 [info] > git merge-base refs/heads/master refs/remotes/origin/master [50ms]
+2024-03-14 13:16:53.240 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [16ms]
+2024-03-14 13:16:53.245 [info] > git config --get commit.template [10ms]
+2024-03-14 13:16:53.262 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2024-03-14 13:16:53.306 [info] > git status -z -uall [27ms]
+2024-03-14 13:16:54.006 [info] > git check-ignore -v -z --stdin [2ms]
+2024-03-14 13:16:54.378 [info] > git ls-files --stage -- /home/chantal/ce3.tf [3ms]
+2024-03-14 13:16:54.388 [info] > git cat-file -s 78596d0cea218b4d9f4b6c01ebbee86ea0f8cb4f [2ms]
+2024-03-14 13:16:54.403 [info] > git show --textconv :ce3.tf [3ms]
