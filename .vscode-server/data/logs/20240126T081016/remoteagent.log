@@ -1,0 +1,22 @@
+2024-01-26 08:10:16.828 [info] 
+
+
+
+
+2024-01-26 08:10:16.828 [info] Extension host agent started.
+2024-01-26 08:10:16.828 [info] Started initializing default profile extensions in extensions installation folder. file:///home/chantal/.vscode-server/extensions
+2024-01-26 08:10:16.853 [info] [127.0.0.1][647230bc][ManagementConnection] New connection established.
+2024-01-26 08:10:17.066 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/chantal/.vscode-server/extensions
+2024-01-26 08:10:17.793 [info] [127.0.0.1][b9c5ebca][ExtensionHostConnection] New connection established.
+2024-01-26 08:10:17.810 [info] [127.0.0.1][b9c5ebca][ExtensionHostConnection] <509> Launched Extension Host Process.
+2024-01-26 08:15:07.702 [info] Getting Manifest... ms-azuretools.vscode-docker
+2024-01-26 08:15:07.927 [info] Installing extension: ms-azuretools.vscode-docker
+2024-01-26 08:15:11.783 [warning] Extension signature verification failed with error 'ENOENT': ms-azuretools.vscode-docker
+2024-01-26 08:15:12.395 [info] Extracted extension to file:///home/chantal/.vscode-server/extensions/ms-azuretools.vscode-docker-1.28.0: ms-azuretools.vscode-docker
+2024-01-26 08:15:12.412 [info] Renamed to /home/chantal/.vscode-server/extensions/ms-azuretools.vscode-docker-1.28.0
+2024-01-26 08:15:12.431 [info] Extracting extension completed. ms-azuretools.vscode-docker
+2024-01-26 08:15:12.452 [info] Extension installed successfully: ms-azuretools.vscode-docker
+2024-01-26 10:19:37.717 [info] [127.0.0.1][b9c5ebca][ExtensionHostConnection] The client has reconnected.
+2024-01-26 10:19:38.549 [info] [127.0.0.1][647230bc][ManagementConnection] The client has reconnected.
+2024-01-26 10:35:01.434 [info] [127.0.0.1][647230bc][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-01-26 10:35:01.669 [info] [127.0.0.1][b9c5ebca][ExtensionHostConnection] <509> Extension Host Process exited with code: 0, signal: null.

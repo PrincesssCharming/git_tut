@@ -1,0 +1,17 @@
+2024-03-14 12:58:14.160 [info] 
+
+
+
+
+2024-03-14 12:58:14.308 [info] Extension host agent started.
+2024-03-14 12:58:14.715 [info] [127.0.0.1][aff9dded][ManagementConnection] New connection established.
+2024-03-14 12:58:15.876 [info] Deleted uninstalled extension from disk timonwong.shellcheck /home/chantal/.vscode-server/extensions/timonwong.shellcheck-0.35.0-linux-x64
+2024-03-14 12:58:15.897 [info] [127.0.0.1][240c38a3][ExtensionHostConnection] New connection established.
+2024-03-14 12:58:16.126 [info] [127.0.0.1][240c38a3][ExtensionHostConnection] <580> Launched Extension Host Process.
+2024-03-14 12:59:32.882 [info] Getting Manifest... hashicorp.terraform
+2024-03-14 12:59:33.053 [info] Installing extension: hashicorp.terraform
+2024-03-14 13:00:29.673 [warning] Extension signature verification failed with error 'ENOENT': hashicorp.terraform
+2024-03-14 13:00:31.336 [info] Extracted extension to file:///home/chantal/.vscode-server/extensions/hashicorp.terraform-2.29.5-linux-x64: hashicorp.terraform
+2024-03-14 13:00:31.350 [info] Renamed to /home/chantal/.vscode-server/extensions/hashicorp.terraform-2.29.5-linux-x64
+2024-03-14 13:00:31.355 [info] Extracting extension completed. hashicorp.terraform
+2024-03-14 13:00:31.379 [info] Extension installed successfully: hashicorp.terraform

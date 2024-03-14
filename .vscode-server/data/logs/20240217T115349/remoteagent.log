@@ -1,0 +1,35 @@
+2024-02-17 11:53:49.645 [info] 
+
+
+
+
+2024-02-17 11:53:49.675 [info] Extension host agent started.
+2024-02-17 11:53:50.249 [info] [127.0.0.1][bb3ca8b7][ManagementConnection] New connection established.
+2024-02-17 11:53:50.890 [info] [127.0.0.1][a599c024][ExtensionHostConnection] New connection established.
+2024-02-17 11:53:50.961 [info] [127.0.0.1][a599c024][ExtensionHostConnection] <784> Launched Extension Host Process.
+2024-02-17 11:54:02.408 [info] Getting Manifest... ms-azuretools.vscode-docker
+2024-02-17 11:54:02.988 [info] Installing extension: ms-azuretools.vscode-docker
+2024-02-17 11:54:06.752 [warning] Extension signature verification failed with error 'ENOENT': ms-azuretools.vscode-docker
+2024-02-17 11:54:07.094 [info] Extracted extension to file:///home/chantal/.vscode-server/extensions/ms-azuretools.vscode-docker-1.29.0: ms-azuretools.vscode-docker
+2024-02-17 11:54:07.107 [info] Renamed to /home/chantal/.vscode-server/extensions/ms-azuretools.vscode-docker-1.29.0
+2024-02-17 11:54:07.121 [info] Extracting extension completed. ms-azuretools.vscode-docker
+2024-02-17 11:54:07.135 [info] Extension installed successfully: ms-azuretools.vscode-docker
+2024-02-17 11:54:07.188 [info] Marked extension as uninstalled ms-azuretools.vscode-docker-1.28.0
+2024-02-17 11:59:02.342 [info] Getting Manifest... timonwong.shellcheck
+2024-02-17 11:59:02.502 [info] Installing extension: timonwong.shellcheck
+2024-02-17 11:59:06.573 [warning] Extension signature verification failed with error 'ENOENT': timonwong.shellcheck
+2024-02-17 11:59:07.473 [info] Extracted extension to file:///home/chantal/.vscode-server/extensions/timonwong.shellcheck-0.35.0-linux-x64: timonwong.shellcheck
+2024-02-17 11:59:07.509 [info] Renamed to /home/chantal/.vscode-server/extensions/timonwong.shellcheck-0.35.0-linux-x64
+2024-02-17 11:59:07.515 [info] Extracting extension completed. timonwong.shellcheck
+2024-02-17 11:59:07.558 [info] Extension installed successfully: timonwong.shellcheck
+2024-02-17 11:59:35.079 [info] Getting Manifest... oleg-shilo.cs-script
+2024-02-17 11:59:35.235 [info] Installing extension: oleg-shilo.cs-script
+2024-02-17 11:59:49.018 [warning] Extension signature verification failed with error 'ENOENT': oleg-shilo.cs-script
+2024-02-17 11:59:50.758 [info] Extracted extension to file:///home/chantal/.vscode-server/extensions/oleg-shilo.cs-script-2.2.1: oleg-shilo.cs-script
+2024-02-17 11:59:50.768 [info] Renamed to /home/chantal/.vscode-server/extensions/oleg-shilo.cs-script-2.2.1
+2024-02-17 11:59:50.771 [info] Extracting extension completed. oleg-shilo.cs-script
+2024-02-17 11:59:50.784 [info] Extension installed successfully: oleg-shilo.cs-script
+2024-02-18 10:25:21.227 [info] [127.0.0.1][a599c024][ExtensionHostConnection] The client has reconnected.
+2024-02-18 10:25:21.829 [info] [127.0.0.1][bb3ca8b7][ManagementConnection] The client has reconnected.
+2024-02-18 12:42:21.566 [info] [127.0.0.1][bb3ca8b7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-18 12:42:21.991 [info] [127.0.0.1][a599c024][ExtensionHostConnection] <784> Extension Host Process exited with code: 0, signal: null.

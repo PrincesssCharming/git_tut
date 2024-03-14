@@ -1,0 +1,20 @@
+2024-03-11 12:50:17.743 [info] 
+
+
+
+
+2024-03-11 12:50:17.786 [info] Extension host agent started.
+2024-03-11 12:50:18.116 [info] Deleted uninstalled extension from disk ms-azuretools.vscode-docker /home/chantal/.vscode-server/extensions/ms-azuretools.vscode-docker-1.28.0
+2024-03-11 12:50:18.317 [info] [127.0.0.1][b51ff072][ManagementConnection] New connection established.
+2024-03-11 12:50:19.894 [info] [127.0.0.1][e4f1d652][ExtensionHostConnection] New connection established.
+2024-03-11 12:50:19.913 [info] [127.0.0.1][e4f1d652][ExtensionHostConnection] <583> Launched Extension Host Process.
+2024-03-11 12:50:29.466 [info] Getting Manifest... timonwong.shellcheck
+2024-03-11 12:50:29.893 [info] Installing extension: timonwong.shellcheck
+2024-03-11 12:51:14.374 [warning] Extension signature verification failed with error 'ENOENT': timonwong.shellcheck
+2024-03-11 12:51:14.964 [info] Extracted extension to file:///home/chantal/.vscode-server/extensions/timonwong.shellcheck-0.37.0-linux-x64: timonwong.shellcheck
+2024-03-11 12:51:14.977 [info] Renamed to /home/chantal/.vscode-server/extensions/timonwong.shellcheck-0.37.0-linux-x64
+2024-03-11 12:51:14.983 [info] Extracting extension completed. timonwong.shellcheck
+2024-03-11 12:51:14.997 [info] Extension installed successfully: timonwong.shellcheck
+2024-03-11 12:51:15.009 [info] Marked extension as uninstalled timonwong.shellcheck-0.35.0-linux-x64
+2024-03-11 12:51:36.424 [info] [127.0.0.1][b51ff072][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-03-11 12:51:36.856 [info] [127.0.0.1][e4f1d652][ExtensionHostConnection] <583> Extension Host Process exited with code: 0, signal: null.
